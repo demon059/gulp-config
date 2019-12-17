@@ -9,18 +9,21 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gulp": "^4.0.2",
+    "normalize.scss": "^0.1.0"
+    "@babel/core": "^7.7.5",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp-autoprefixer": "^7.0.1",
     "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^4.2.0",
     "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
-    "i": "^0.3.6",
     "node-sass": "^4.13.0",
     "npm": "^6.13.4"
-  },
-  "dependencies": {
-    "gulp": "^4.0.2",
-    "normalize.scss": "^0.1.0"
   }
 }
