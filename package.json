@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "normalize.scss": "^0.1.0"
+    "normalize.scss": "^0.1.0",
     "@babel/core": "^7.7.5",
     "browser-sync": "^2.26.7",
     "del": "^5.1.0",
